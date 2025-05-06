@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFC6E2</corfondo>
+        <corbanda>8888FF</corbanda>
+        <cornavega>8888FF</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>LAS VOCALES</titulo>
+        <subtitulo>Conozco las vocales</subtitulo>
+        <autor>Ana Ensuncho</autor>
+        <logo>Diapositiva1.JPG</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>Presentación</cabeceira>
+              <imaxe posx="0" posy="-10">vocal.PNG</imaxe>
+        </paxina>
+        <paxina id="2" >
+              <tipo>2</tipo>
+              <cabeceira>LA VOCAL A</cabeceira>
+              <imaxe posx="0" posy="0">Diapositiva3.JPG</imaxe>
+        </paxina>
+        <paxina id="3" >
+              <tipo>3</tipo>
+              <cabeceira>Puzle vocal A</cabeceira>
+              <imaxe>1743364658012.jpg</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>24</tipo>
+              <cabeceira>Elige las imagenes correctas que empiecen con la vocal A</cabeceira>
+              <etiqueta imaxe="1743364657978.jpg" texto="VOCAL A">1</etiqueta>
+              <etiqueta imaxe="1743364657933.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657973.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="1743364657904.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657961.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="1743364657875.jpg" texto="">0</etiqueta>
+              <cfondo>EAD5FF</cfondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>2</tipo>
+              <cabeceira>LA VOCAL E</cabeceira>
+              <imaxe posx="0" posy="0">Diapositiva4.JPG</imaxe>
+        </paxina>
+        <paxina id="6" >
+              <tipo>3</tipo>
+              <cabeceira>Puzle vocal E</cabeceira>
+              <imaxe>1743364658003.jpg</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>Elige las imagenes correctas que empiecen con la vocal E</cabeceira>
+              <etiqueta imaxe="1743364658032.jpg" texto="VOCAL E">1</etiqueta>
+              <etiqueta imaxe="1743364657933.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="1743364657878.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657949.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657973.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657924.jpg" texto="">1</etiqueta>
+              <cfondo>EAD5FF</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>2</tipo>
+              <cabeceira>LA VOCAL I</cabeceira>
+              <imaxe posx="0" posy="0">Diapositiva5.JPG</imaxe>
+        </paxina>
+        <paxina id="9" >
+              <tipo>3</tipo>
+              <cabeceira>Puzle vocal I</cabeceira>
+              <imaxe>1743364657991.jpg</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="10" >
+              <tipo>24</tipo>
+              <cabeceira>Elige las imagenes correctas que empiecen con la vocal I</cabeceira>
+              <etiqueta imaxe="1743364658028.jpg" texto="VOCAL I">1</etiqueta>
+              <etiqueta imaxe="1743364657882.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657856.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657949.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657896.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="1743364657904.jpg" texto="">1</etiqueta>
+              <cfondo>EAD5FF</cfondo>
+        </paxina>
+        <paxina id="11" >
+              <tipo>2</tipo>
+              <cabeceira>LA VOCAL O</cabeceira>
+              <imaxe posx="0" posy="0">Diapositiva6.JPG</imaxe>
+        </paxina>
+        <paxina id="12" >
+              <tipo>3</tipo>
+              <cabeceira>Puzle vocal O</cabeceira>
+              <imaxe>1743364657997.jpg</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="13" >
+              <tipo>24</tipo>
+              <cabeceira>Elige las imagenes correctas que empiecen con la vocal O</cabeceira>
+              <etiqueta imaxe="1743364658024.jpg" texto="VOCAL O">1</etiqueta>
+              <etiqueta imaxe="1743364657928.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657860.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657878.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="1743364657875.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="1743364657847.jpg" texto="">0</etiqueta>
+              <cfondo>EAD5FF</cfondo>
+        </paxina>
+        <paxina id="14" >
+              <tipo>2</tipo>
+              <cabeceira>LA VOCAL U</cabeceira>
+              <imaxe posx="0" posy="0">Diapositiva7.JPG</imaxe>
+        </paxina>
+        <paxina id="15" >
+              <tipo>3</tipo>
+              <cabeceira>Puzle vocal U</cabeceira>
+              <imaxe>1743364658007_(1).jpg</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="16" >
+              <tipo>24</tipo>
+              <cabeceira>Elige las imagenes correctas que empiecen con la vocal U</cabeceira>
+              <etiqueta imaxe="1743364658019.jpg" texto="VOCAL U">1</etiqueta>
+              <etiqueta imaxe="1743364657856.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="1743364657928.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657961.jpg" texto="">0</etiqueta>
+              <etiqueta imaxe="1743364657860.jpg" texto="">1</etiqueta>
+              <etiqueta imaxe="1743364657908.jpg" texto="">0</etiqueta>
+              <cfondo>EAD5FF</cfondo>
+        </paxina>
+        <paxina id="17" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica las imagenes con la vocal correspondiente</cabeceira>
+              <fondocaixa1 trans="100">1743364657978.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">1743364657944.jpg</fondocaixa2>
+              <caixa1>VOCAL A</caixa1>
+              <caixa2>VOCAL E</caixa2>
+              <mini caixa="1">1743364657973.jpg</mini>
+              <mini caixa="2">1743364657933.jpg</mini>
+              <mini caixa="1">1743364657961.jpg</mini>
+              <mini caixa="2">1743364657928.jpg</mini>
+              <mini caixa="1">1743364657949.jpg</mini>
+              <mini caixa="2">1743364657924.jpg</mini>
+              <cfondo>FFC6E2</cfondo>
+        </paxina>
+        <paxina id="18" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica las imagenes con la vocal correspondiente</cabeceira>
+              <fondocaixa1 trans="100">1743364657911.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">1743364657891.jpg</fondocaixa2>
+              <caixa1>VOCAL I</caixa1>
+              <caixa2>VOCAL O</caixa2>
+              <mini caixa="1">1743364657908.jpg</mini>
+              <mini caixa="2">1743364657882.jpg</mini>
+              <mini caixa="1">1743364657904.jpg</mini>
+              <mini caixa="2">1743364657875.jpg</mini>
+              <mini caixa="1">1743364657896.jpg</mini>
+              <mini caixa="2">1743364657878.jpg</mini>
+              <cfondo>EAD5FF</cfondo>
+        </paxina>
+        <paxina id="19" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica las imagenes con la vocal correspondiente</cabeceira>
+              <fondocaixa1 trans="100">1743364657864.jpg</fondocaixa1>
+              <fondocaixa2 trans="100">1743364657944.jpg</fondocaixa2>
+              <caixa1>VOCAL U</caixa1>
+              <caixa2>VOCAL E</caixa2>
+              <mini caixa="1">1743364657860.jpg</mini>
+              <mini caixa="2">1743364657933.jpg</mini>
+              <mini caixa="1">1743364657856.jpg</mini>
+              <mini caixa="2">1743364657928.jpg</mini>
+              <mini caixa="1">1743364657847.jpg</mini>
+              <mini caixa="2">1743364657924.jpg</mini>
+              <cfondo>EAD5FF</cfondo>
+        </paxina>
+        <paxina id="20" >
+              <tipo>17</tipo>
+              <cabeceira>Busca la pareja de cada imagen</cabeceira>
+              <parellas>1743364657878.jpg</parellas>
+              <parellas>1743364657928.jpg</parellas>
+              <parellas>1743364657961.jpg</parellas>
+              <parellas>1743364657882.jpg</parellas>
+              <parellas>1743364657949.jpg</parellas>
+              <parellas>1743364657908.jpg</parellas>
+              <cfondo>EAD5FF</cfondo>
+              <ctapa>EAD5FF</ctapa>
+              <tempo>120</tempo>
+        </paxina>
+        <paxina id="21" >
+              <tipo>35</tipo>
+              <cabeceira>Ordena las vocales</cabeceira>
+              <forma>1</forma>
+              <completa>1743364658036.jpg</completa>
+              <completa>1743364658032.jpg</completa>
+              <completa>1743364658028.jpg</completa>
+              <completa>1743364658024.jpg</completa>
+              <completa>1743364658019.jpg</completa>
+        </paxina>
+        <paxina id="22" >
+              <tipo>4</tipo>
+              <cabeceira>Sopa de letras</cabeceira>
+              <modo>2</modo>
+              <sopa enun="1743364657949.jpg">ABEJA</sopa>
+              <sopa enun="1743364657920.jpg">ERIZO</sopa>
+              <sopa enun="1743364657908.jpg">IMÁN</sopa>
+              <sopa enun="1743364657882.jpg">OLLA</sopa>
+              <sopa enun="1743364657860.jpg">UVA</sopa>
+              <sopa enun="1743364657896.jpg">ISLA</sopa>
+              <sopa enun="1743364657969.jpg">ÁRBOL</sopa>
+              <sopa enun="1743364657875.jpg">ORUGA</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+    </libro>
+</lim>
